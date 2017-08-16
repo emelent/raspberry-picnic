@@ -1,0 +1,107 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BTN	../traffic-led/traffic_led.py	/^BTN = 18$/;"	kind:variable	line:14
+BTN_GREEN	../memory-game/main.py	/^BTN_GREEN = 24$/;"	kind:variable	line:20
+BTN_MAP	../memory-game/main.py	/^BTN_MAP = {$/;"	kind:variable	line:36
+BTN_RED	../memory-game/main.py	/^BTN_RED = 18$/;"	kind:variable	line:18
+BTN_YELLOW	../memory-game/main.py	/^BTN_YELLOW = 23$/;"	kind:variable	line:19
+DEBUG	../lib/pinocchio.py	/^DEBUG = True$/;"	kind:variable	line:59
+GPIOStub	../lib/pinocchio.py	/^class GPIOStub():$/;"	kind:class	line:18
+GREEN	../traffic-led/traffic_led.py	/^GREEN = 21$/;"	kind:variable	line:12
+HIGH	../lib/pinocchio.py	/^    HIGH = 0$/;"	kind:variable	line:19
+IN	../lib/pinocchio.py	/^    IN = 0$/;"	kind:variable	line:22
+IN_PINS	../lib/pinocchio.py	/^IN_PINS = set()$/;"	kind:variable	line:58
+LEDS	../simple-sequence/main.py	/^LEDS = [LED_RED, LED_YELLOW, LED_GREEN]$/;"	kind:variable	line:10
+LED_GREEN	../memory-game/main.py	/^LED_GREEN = 21$/;"	kind:variable	line:24
+LED_GREEN	../simple-sequence/main.py	/^LED_GREEN = 21$/;"	kind:variable	line:7
+LED_MAP	../memory-game/main.py	/^LED_MAP = {$/;"	kind:variable	line:26
+LED_RED	../memory-game/main.py	/^LED_RED = 16$/;"	kind:variable	line:22
+LED_RED	../simple-sequence/main.py	/^LED_RED = 16$/;"	kind:variable	line:5
+LED_YELLOW	../memory-game/main.py	/^LED_YELLOW = 20$/;"	kind:variable	line:23
+LED_YELLOW	../simple-sequence/main.py	/^LED_YELLOW = 20$/;"	kind:variable	line:6
+LOSS_PHRASES	../memory-game/main.py	/^LOSS_PHRASES = [$/;"	kind:variable	line:59
+LOW	../lib/pinocchio.py	/^    LOW = 0$/;"	kind:variable	line:20
+OUT	../lib/pinocchio.py	/^    OUT = 0$/;"	kind:variable	line:21
+OUT_PINS	../lib/pinocchio.py	/^OUT_PINS= {}$/;"	kind:variable	line:57
+PUD_DOWN	../lib/pinocchio.py	/^    PUD_DOWN = 0$/;"	kind:variable	line:24
+PUD_UP	../lib/pinocchio.py	/^    PUD_UP = 0$/;"	kind:variable	line:23
+RED	../traffic-led/traffic_led.py	/^RED = 16$/;"	kind:variable	line:10
+RPi	../lib/pinocchio.py	/^    import RPi.GPIO as gpio$/;"	kind:namespace	line:52
+RPi	../traffic-led/traffic_led.py	/^import RPi.GPIO as gpio$/;"	kind:namespace	line:2
+UnitTestBaseStrip	../lib/pinocchio.py	/^    class UnitTestBaseStrip(unittest.TestCase):$/;"	kind:class	line:228
+WIN_PHRASES	../memory-game/main.py	/^WIN_PHRASES = [$/;"	kind:variable	line:49
+YELLOW	../traffic-led/traffic_led.py	/^YELLOW = 20$/;"	kind:variable	line:11
+__for_OUT_PINS	../lib/pinocchio.py	/^def __for_OUT_PINS(pins, f, *args, **kwargs):$/;"	kind:function	line:62
+automaticTrafficLight	../traffic-led/traffic_led.py	/^def automaticTrafficLight(iterations, interval):$/;"	kind:function	line:41
+buttonDown	../memory-game/main.py	/^def buttonDown(btn_val, btn_closed):$/;"	kind:function	line:106
+checkInPin	../lib/pinocchio.py	/^def checkInPin(pin):$/;"	kind:function	line:166
+checkOutPin	../lib/pinocchio.py	/^def checkOutPin(pin):$/;"	kind:function	line:157
+choice	../memory-game/main.py	/^from random import choice$/;"	kind:namespace	line:2
+cleanup	../lib/pinocchio.py	/^    def cleanup(self, *args, **kwargs):$/;"	kind:member	line:39
+cleanup	../lib/pinocchio.py	/^def cleanup():$/;"	kind:function	line:74
+debugPrint	../lib/pinocchio.py	/^def debugPrint(msg):$/;"	kind:function	line:85
+displaySequence	../memory-game/main.py	/^def displaySequence(seq, interval):$/;"	kind:function	line:94
+getInput	../lib/pinocchio.py	/^def getInput(pin):$/;"	kind:function	line:149
+getNextSequence	../memory-game/main.py	/^def getNextSequence(seq_len):$/;"	kind:function	line:88
+getOutPinState	../lib/pinocchio.py	/^def getOutPinState(pin):$/;"	kind:function	line:141
+getPlayerInput	../memory-game/main.py	/^def getPlayerInput(correct_sequence):$/;"	kind:function	line:117
+gpio	../lib/pinocchio.py	/^    import RPi.GPIO as gpio$/;"	kind:namespace	line:52
+gpio	../traffic-led/traffic_led.py	/^import RPi.GPIO as gpio$/;"	kind:namespace	line:2
+hack	../lib/pinocchio.py	/^def hack():$/;"	kind:function	line:45
+input	../lib/pinocchio.py	/^    def input(self, *args, **kwargs):$/;"	kind:member	line:29
+light	../traffic-led/traffic_led.py	/^light  = -1 # first light to go on is is (light + 1)%3$/;"	kind:variable	line:19
+main	../memory-game/main.py	/^def main():$/;"	kind:function	line:151
+main	../simple-sequence/main.py	/^def main():$/;"	kind:function	line:24
+main	../traffic-led/traffic_led.py	/^def main():$/;"	kind:function	line:69
+main.py	../memory-game/main.py	1;"	kind:file	line:1
+main.py	../simple-sequence/main.py	1;"	kind:file	line:1
+manualTrafficLight	../traffic-led/traffic_led.py	/^def manualTrafficLight():$/;"	kind:function	line:51
+nextLight	../traffic-led/traffic_led.py	/^def nextLight():$/;"	kind:function	line:30
+output	../lib/pinocchio.py	/^    def output(self, *args, **kwargs):$/;"	kind:member	line:26
+pin	../memory-game/main.py	/^import pinocchio as pin$/;"	kind:namespace	line:4
+pin	../simple-sequence/main.py	/^import pinocchio as pin$/;"	kind:namespace	line:1
+pin	../traffic-led/traffic_led.py	/^import pinocchio as pin$/;"	kind:namespace	line:3
+pinocchio.py	../lib/pinocchio.py	1;"	kind:file	line:1
+query	../lib/pinocchio.py	/^def query(msg):$/;"	kind:function	line:211
+query	../memory-game/main.py	/^def query(msg):$/;"	kind:function	line:71
+sequence	../simple-sequence/main.py	/^def sequence(interval, iterations):$/;"	kind:function	line:17
+setAllOutPinsHigh	../lib/pinocchio.py	/^def setAllOutPinsHigh():$/;"	kind:function	line:196
+setAllOutPinsLow	../lib/pinocchio.py	/^def setAllOutPinsLow():$/;"	kind:function	line:193
+setDebug	../lib/pinocchio.py	/^def setDebug(b):$/;"	kind:function	line:78
+setOutPinHigh	../lib/pinocchio.py	/^def setOutPinHigh(pin):$/;"	kind:function	line:175
+setOutPinLow	../lib/pinocchio.py	/^def setOutPinLow(pin):$/;"	kind:function	line:184
+setOutPinsHigh	../lib/pinocchio.py	/^def setOutPinsHigh(pins):$/;"	kind:function	line:208
+setOutPinsLow	../lib/pinocchio.py	/^def setOutPinsLow(pins):$/;"	kind:function	line:205
+setUp	../lib/pinocchio.py	/^        def setUp(self):$/;"	kind:member	line:232
+setmode	../lib/pinocchio.py	/^    def setmode(self, *args, **kwargs):$/;"	kind:member	line:33
+setup	../lib/pinocchio.py	/^    def setup(self, *args, **kwargs):$/;"	kind:member	line:42
+setupHw	../lib/pinocchio.py	/^def setupHw():$/;"	kind:function	line:66
+setupHw	../memory-game/main.py	/^def setupHw():$/;"	kind:function	line:79
+setupHw	../simple-sequence/main.py	/^def setupHw():$/;"	kind:function	line:12
+setupHw	../traffic-led/traffic_led.py	/^def setupHw():$/;"	kind:function	line:21
+setupOutPin	../lib/pinocchio.py	/^def setupOutPin(pin):$/;"	kind:function	line:92
+setupOutPins	../lib/pinocchio.py	/^def setupOutPins(pins):$/;"	kind:function	line:100
+setupPullDownInPin	../lib/pinocchio.py	/^def setupPullDownInPin(pin):$/;"	kind:function	line:115
+setupPullDownInPins	../lib/pinocchio.py	/^def setupPullDownInPins(pins):$/;"	kind:function	line:127
+setupPullUpInPin	../lib/pinocchio.py	/^def setupPullUpInPin(pin):$/;"	kind:function	line:107
+setupPullUpInPins	../lib/pinocchio.py	/^def setupPullUpInPins(pins):$/;"	kind:function	line:123
+setwarnings	../lib/pinocchio.py	/^    def setwarnings(self, *args, **kwargs):$/;"	kind:member	line:36
+sys	../memory-game/main.py	/^import time, sys$/;"	kind:namespace	line:1
+tearDown	../lib/pinocchio.py	/^        def tearDown(self):$/;"	kind:member	line:238
+test_InvalidPins	../lib/pinocchio.py	/^        def test_InvalidPins(self):$/;"	kind:member	line:267
+test_OutPinToggle	../lib/pinocchio.py	/^        def test_OutPinToggle(self):$/;"	kind:member	line:241
+test_pins	../lib/pinocchio.py	/^        test_pins = 18, 21, 23$/;"	kind:variable	line:230
+time	../memory-game/main.py	/^import time, sys$/;"	kind:namespace	line:1
+time	../simple-sequence/main.py	/^import time$/;"	kind:namespace	line:2
+time	../traffic-led/traffic_led.py	/^import time$/;"	kind:namespace	line:1
+toggleAllOutPins	../lib/pinocchio.py	/^def toggleAllOutPins():$/;"	kind:function	line:199
+toggleOutPin	../lib/pinocchio.py	/^def toggleOutPin(pin):$/;"	kind:function	line:131
+toggleOutPins	../lib/pinocchio.py	/^def toggleOutPins(pins):$/;"	kind:function	line:202
+traffic_colors	../traffic-led/traffic_led.py	/^traffic_colors = ["GREEN", "YELLOW", "RED"]$/;"	kind:variable	line:17
+traffic_led.py	../traffic-led/traffic_led.py	1;"	kind:file	line:1
+traffic_lights	../traffic-led/traffic_led.py	/^traffic_lights = [GREEN, YELLOW, RED]$/;"	kind:variable	line:16
+unittest	../lib/pinocchio.py	/^    import unittest$/;"	kind:namespace	line:224
